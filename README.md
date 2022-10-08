@@ -58,3 +58,11 @@ JavaScript Example:
 const couldBeAnything = document.querySelector('#theThing');
 console.log(`The value of the variable is: ${couldBeAnything}`);
 ```
+
+### Misc GitHub-flavor Markdown Features
+
+#### SHA References
+This is a bit specific, but you can put in a commit's SHA-1 hash, and it will automatically be converted into a link to that commit on GitHub. Example: eb76bcd9ae2764a106586bd4861fe03ffb3936ec
+
+#### Issue References within a repository
+Numbers formatted like this: #1 will automatically link to the issue numbered that in the repository. If you click on the one then you will be taken to the first issue in this repository.
