@@ -78,3 +78,13 @@ You should definitely ~~watch~~ miss the game on Sunday.
 You can write emojis easily :smiley:.
 
 :hankey: :japanese_ogre: :no_mouth: :upside_down_face:
+
+#### Tables
+
+Tables are easy on GitHub.
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | content in the second column
+I like | Vanilla coca-cola
