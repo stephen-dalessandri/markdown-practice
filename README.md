@@ -1,5 +1,5 @@
 # markdown-practice
-A repo to hold my examples of markdown docs. This is a useful reference for me.
+This is a repo to hold my examples of markdown docs. This is a useful reference for me.
 
 ## A place to store samples
 I am using this repo to store examples of markdown so that I don't need to rely on Google for the answers. I find that doing a Google search pulls me out of a *focused* state and into a _distracted_ condition.
